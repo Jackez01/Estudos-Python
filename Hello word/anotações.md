@@ -17,5 +17,13 @@
 - Para remover algo no inicio e no final variavel + .strip("caracter desejavel") **nome.strip("x")** (ex texto.py)
 - Para verificar se começa com determinado caracter variavel + startswith("") **nome.startswith("Lu")** (ex texto.py)
 
+#Listas-------------------------------------------------------------------------------------------------------------------
+-variavel + = [elementos da lista] **minha_lista = [1, 2, 3, 4, 5]** (ex lista.py)
+- Para acessar um elemento individualmente print + (varialvel[elemento p/ ser acessado])**print(minha_lista[0])**(ex lista.py)
+- Para fatiar uma lista ou pegar uma parte dos elementos, a explicação esta no arquivo (ex lista.py)
+
+#Tupla (coleção ordenada e imutavel de elementos)
+
+
 
 
