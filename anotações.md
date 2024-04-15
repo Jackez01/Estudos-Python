@@ -31,6 +31,7 @@
 [] para ver as chaves usamos n = nome do dicionario.keys() *chaves = pessoa.keys()* 
 [] Para ver os valores do dicionário, n = nome do dicionário.values() *valores = pessoa.values()*
 
+# Condicionais
 
 
 
