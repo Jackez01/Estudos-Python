@@ -37,3 +37,6 @@
 []criar uma lista ou tupla depois usar o for + qualquer variavel + in + nome da lista e depois imprimir *for elemento in lista:*
 [] Podemos também imprimir chaves e valores de uma lista ou tupla usando o *for valor in pessoa.values()(ou.items):*
 [] Usando o range com len podemos acessar um indice especifico de uma lista
+
+# Funções
+[] É um bloco de código reutilizavel
